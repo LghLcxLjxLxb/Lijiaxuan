@@ -14,7 +14,6 @@
     &emsp;&emsp;09-remove.py（去掉字符串中的所有空格）
     &emsp;&emsp;10-threesqrt.py（求三次方根）
     &emsp;&emsp;11-jiecheng.py（求N的阶乘）
-    
 **·week02(09-19)**
     &emsp;&emsp;01-fenge.py（求乘积最大的正整数子列）
     &emsp;&emsp;02-cifang.py（计算2的10、20、30、40、50次方）
@@ -27,7 +26,6 @@
     &emsp;&emsp;09-gujiPI2.py（估计π值的第二种方法）
     &emsp;&emsp;09-gujiPI3.py（估计π值的第三种方法）
     &emsp;&emsp;10-jifen.py（求（2，3）区间的函数积分）
-    
 **·week03(09-26)**
     &emsp;&emsp;01-jinzhi.py（完成十到二进制小数的转换）
     &emsp;&emsp;02-rannum.py（产生10-20的随机浮点数）
