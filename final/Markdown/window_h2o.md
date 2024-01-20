@@ -1,13 +1,13 @@
-###Windows 10安装H2O（亲测可用）
+### Windows 10安装H2O（亲测可用）
 
 &emsp;H2O的安装分为两个部分：
 >1.	安装JAVA
 >2.	解压H2O和运行h2o.jar文件
 
 
-#####一、	下载JDK和H2O的安装包
+##### 一、	下载JDK和H2O的安装包
 
-#####二、	安装JDK（已经安装好JDK的请直接跳到第三步）
+##### 二、	安装JDK（已经安装好JDK的请直接跳到第三步）
 1.	双击下载的 ![Alt text](../imgs/image-53.png)文件
 
 2.	出现欢迎使用Java SE开发工具包8 Update 212的安装向导界面，点击“下一步”（图片的版本是Update 60，仅供参考）
@@ -30,14 +30,14 @@
 7.	已成功安装界面，点击关闭。
 > ![Alt text](../imgs/image-44.png)
 
-#####验证环境：
+##### 验证环境：
 &emsp;1.	点击左下角的搜索图标，输入cmd，回车弹出命令行窗口。
 > ![Alt text](../imgs/image-45.png)
 
 &emsp;2.	输入“java -version“，出现以下信息，说明安装成功
 > ![Alt text](../imgs/image-46.png)
  
-#####三、	安装H2O
+##### 三、	安装H2O
 H2O不需要安装，解压后即可运行。
 1.	解压下载的h2o-3.34.0.3.zip文件
 > ![Alt text](../imgs/image-47.png)
