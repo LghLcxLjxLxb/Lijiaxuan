@@ -54,12 +54,11 @@
   WHERE team.teamName  =  'ECNU' AND user.age < 20
   ```
 10. 写出SQL语句，计算teamName为“ECNU”的总分（假设score存在null值，null值默认为0加入计算）。
-    ```sql
+  ```sql
   SELECT team.teamName, COALESCE(SUM(score.score), 0) AS totalScore
   FROM team
   LEFT JOIN score ON team.id = score.teamid
   WHERE team.teamName = 'ECNU'
   GROUP BY team.teamName;
-
-    ```
+  ```
     
