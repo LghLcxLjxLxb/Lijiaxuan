@@ -1,4 +1,5 @@
-践习题3-10
+践习题3-10  
+
 3. 新建一张user表，插入几条数据，属性包含：唯一标识（id），姓名（name）,性别（sex），年龄（age），联系方式（phone）。
    ```sql
       CREATE TABLE user(
