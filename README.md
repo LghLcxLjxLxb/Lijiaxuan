@@ -4,8 +4,8 @@
 
 **·week01(09-12)**  
 
-    &emsp;&emsp;01-hello.py（Hello world的打印程序）      
-    &emsp;&emsp;02-star.py（打印星号将文字包围起来）     
+    01-hello.py（Hello world的打印程序）      
+    02-star.py（打印星号将文字包围起来）     
     &emsp;&emsp;03-threesort.py（输入三个数排序）  
     &emsp;&emsp;04-foursort.py（输入四个数排序）  
     &emsp;&emsp;05-jishu.py（输出1-100所有奇数）   
@@ -14,7 +14,7 @@
     &emsp;&emsp;08-lianxuchar.py（判断是否有两个或两个以上相同字符的字符串）  
     &emsp;&emsp;09-remove.py（去掉字符串中的所有空格）  
     &emsp;&emsp;10-threesqrt.py（求三次方根）  
-    &emsp;&emsp;11-jiecheng.py（求N的阶乘）  
+    11-jiecheng.py（求N的阶乘）  
     
 **·week02(09-19)**  
 
@@ -74,7 +74,7 @@
     
 **·week09(11-07)**  
 
-    &emsp;&emsp;01-sql.md（练习相关sql语句）  
+    01-sql.md（练习相关sql语句）  
     
 **·week11(11-21)**  
 
@@ -100,7 +100,7 @@
       
 **·week16(12-26)**  
 
-    &emsp;&emsp;01-Answer.md（相关人工智能问题的讨论）  
+    01-Answer.md（相关人工智能问题的讨论）  
     
 **·final(1-20)**  
 
