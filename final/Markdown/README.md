@@ -33,8 +33,10 @@
 四.Py文件  
 ---
   
-**· 检测文件编码格式的python代码**
+**· 检测文件编码格式的python代码**  
+
 &emsp;test_code.py  
 
-**· 转换文件编码的python代码**
+**· 转换文件编码的python代码**  
+
 &emsp;trans_to_utf-8.py
